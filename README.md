@@ -1,6 +1,9 @@
 # Frontend Mentor - Insure landing page
 
-![Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)
+
+https://insure-landingpage.caesarsage.vercel.app
+
+[Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
